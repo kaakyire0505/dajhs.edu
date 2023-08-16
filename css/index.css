@@ -818,3 +818,47 @@ li{
     }
  }
 }
+
+
+
+/* ?========== MEDIA 478======================= */
+@media (max-width: 259px){
+    #toggle{
+        width: 92.5%;
+    }
+    #open-menu,#close-menu{
+        color: darkorange;
+        font-size: 1.9rem;
+        right: 0;
+        margin-top: 0.3rem;
+        margin-right: 2rem;
+        margin-left: 15rem;
+    }
+    .container{
+        width: 100%;
+        overflow: hidden;
+    }
+    .banner-section{
+        width:100%;
+        overflow: hidden;
+    .svg{
+        margin-top: 18rem;
+    }
+      .teacher-card{
+        width: 100%;
+      }
+    .teacher-card i{
+        margin-top: -50px;
+    }
+      #faq{
+        display: flex;
+        flex-direction:column;
+        align-content: center;
+        align-items: center;
+      }   
+    .top{
+      margin-left: 15rem;
+    }
+ }
+}
+
