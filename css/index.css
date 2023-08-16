@@ -796,5 +796,8 @@ li{
     .teacher-card i{
         margin-top: -50px;
     }
+    .top{
+      margin-left: 18rem;
+    }
  }
 }
