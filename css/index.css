@@ -867,7 +867,7 @@ li{
 /* ?========== MEDIA 478======================= */
 @media (max-width: 400px){
     #toggle{
-        width: 93.5%;
+        width: 95.5%;
     }
     #open-menu,#close-menu{
         color: darkorange;
