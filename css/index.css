@@ -198,7 +198,7 @@ li{
 #profile-course{
     display: flex;
     justify-content: space-between;
-    padding: 1.2rem 1rem;
+    padding: 1rem;
     margin-top: var(--margin-left-one);
     margin-top: 2rem;
     color: rgb(216, 214, 214);
@@ -209,6 +209,9 @@ li{
     width: 55%;
     height: fit-content;
      border: var(--border);
+}
+.profile h4{
+  padding: 1.7rem;
 }
 .teachers{
     padding: var(--inner_padding);
