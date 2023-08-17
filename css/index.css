@@ -209,6 +209,7 @@ li{
     width: 55%;
     height: fit-content;
      border: var(--border);
+    border-bottom-right-radius: 80px
 }
 .profile h4{
   padding: 1.7rem;
