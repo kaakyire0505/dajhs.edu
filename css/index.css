@@ -198,14 +198,14 @@ li{
 #profile-course{
     display: flex;
     justify-content: space-between;
-    padding: 1.2rem 2rem;
+    padding: 1.2rem 1rem;
     margin-top: var(--margin-left-one);
     margin-top: 2rem;
     color: rgb(216, 214, 214);
     background-color: var(--background_gradient);
 }
 .profile{
-    padding: 1.5rem -0.1rem;
+    padding: 1rem -0.1rem;
     width: 55%;
     height: fit-content;
      border: var(--border);
