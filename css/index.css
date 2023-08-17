@@ -152,20 +152,22 @@ li{
 
 /* ?===========BANNER SECTION BEGINS============================ */
 .banner-section{
-    background-color: rgba(0,0,0,0.6);
+    background-image: url('/dajhs.edu/images/class2.jpg');
     padding: var(--padding-one);
     display: flex;
     height: fit-content;
     justify-content: space-between;
     margin-top: var(--margin-top-one);
     color: #f5efef;
+    justify-content: space-between;
 }
-#message{
+.message{
     padding: var(--inner_padding);
-    width: 50%;
+    width: 47%;
     color: var(--gen-color);
-}
-.svg{
+    background-color: var(--background_dim);
+    border-bottom-right-radius: 200px;
+}.svg{
     width: 50%;
     height: fit-content;
     border: var(--border);
@@ -626,10 +628,10 @@ li{
     flex-direction: column;
     margin-top: -52px;
   }
-  #message{
+  .message{
     width: 100%;
   }
-  #message > h5{
+  .message > h5{
     font-size: 1rem;
   }
   .unit{
@@ -681,6 +683,12 @@ li{
   align-items: center;
   align-content: center;
 }
+  .course a{
+      display: flex;
+        flex-direction: column;
+        align-items: center;
+        align-content: center;
+      }
 /* ?==========PROFILE COURSE ENDS======================= */
 
 .gallery-section{
@@ -774,6 +782,13 @@ li{
       .top{
         margin-left: 15rem;
       }
+      .course a{
+      display: flex;
+        flex-direction: column;
+        align-items: center;
+        align-content: center;
+      }
+      
  }
 }
 
@@ -819,6 +834,12 @@ li{
         width: 100%;
         margin-top: 3rem; 
         display: flex;
+        flex-direction: column;
+        align-items: center;
+        align-content: center;
+      }
+      .course a{
+      display: flex;
         flex-direction: column;
         align-items: center;
         align-content: center;
@@ -876,8 +897,12 @@ li{
         align-items: center;
         align-content: center;
       }
-      
-        
+      .course a{
+      display: flex;
+        flex-direction: column;
+        align-items: center;
+        align-content: center;
+      }  
     .top{
       margin-left: 10rem;
     }
@@ -926,6 +951,12 @@ li{
         width: 100%;
         margin-top: 3rem; 
         display: flex;
+        flex-direction: column;
+        align-items: center;
+        align-content: center;
+      }
+      .course a{
+      display: flex;
         flex-direction: column;
         align-items: center;
         align-content: center;
