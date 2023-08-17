@@ -167,7 +167,8 @@ li{
     color: var(--gen-color);
     background-color: var(--background_dim);
     border-bottom-right-radius: 200px;
-}.svg{
+}
+.svg{
     width: 50%;
     height: fit-content;
     border: var(--border);
@@ -204,9 +205,10 @@ li{
     background-color: var(--background_gradient);
 }
 .profile{
-    padding: 1rem -0.1rem;
+    padding: 1.5rem -0.1rem;
     width: 55%;
     height: fit-content;
+     border: var(--border);
 }
 .teachers{
     padding: var(--inner_padding);
@@ -248,8 +250,7 @@ li{
 }
 
 .educ-importance{
-    padding: 1.9rem;
-    border: var(--border);
+    padding: 1.7rem;
     display: flex;
     flex-direction: column;
     width: 100%;
