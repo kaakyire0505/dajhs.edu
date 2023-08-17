@@ -246,6 +246,11 @@ li{
     overflow: hidden;
     margin-top: 0.9rem;
 }
+
+.educ-importance{
+    padding: 0.5rem;
+    border: var(--border);
+}
 .list{
     display: flex;
     justify-content: space-between;
@@ -685,13 +690,11 @@ li{
   align-items: center;
   align-content: center;
 }
-  .course a{
-      display: flex;
-        flex-direction: column;
-        align-items: center;
-        align-content: center;
-      }
-/* ?==========PROFILE COURSE ENDS======================= */
+  course-list{
+  display: flex;
+    flex-direction: column;
+  }
+  /* ?==========PROFILE COURSE ENDS======================= */
 
 .gallery-section{
     width: 100%;
@@ -788,12 +791,10 @@ li{
       .top{
         margin-left: 15rem;
       }
-      .course a{
-      display: flex;
-        flex-direction: column;
-        align-items: center;
-        align-content: center;
-      }
+      course-list{
+  display: flex;
+    flex-direction: column;
+  }
       
  }
 }
@@ -849,12 +850,10 @@ li{
         align-items: center;
         align-content: center;
       }
-      .course a{
-      display: flex;
-        flex-direction: column;
-        align-items: center;
-        align-content: center;
-      }
+      course-list{
+  display: flex;
+    flex-direction: column;
+  }
         
     .top{
       margin-left: 17rem;
@@ -912,12 +911,10 @@ li{
         align-items: center;
         align-content: center;
       }
-      .course a{
-      display: flex;
-        flex-direction: column;
-        align-items: center;
-        align-content: center;
-      }  
+      course-list{
+  display: flex;
+    flex-direction: column;
+  }  
     .top{
       margin-left: 10rem;
     }
@@ -974,12 +971,10 @@ li{
         align-items: center;
         align-content: center;
       }
-      .course a{
-      display: flex;
-        flex-direction: column;
-        align-items: center;
-        align-content: center;
-      }
+      course-list{
+  display: flex;
+    flex-direction: column;
+  }
       
       #faq{
         display: flex;
