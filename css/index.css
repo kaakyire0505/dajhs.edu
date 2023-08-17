@@ -252,6 +252,7 @@ li{
     border: var(--border);
     display: flex;
     flex-direction: column;
+    width: 100%;
 }
 .list{
     display: flex;
