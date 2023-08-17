@@ -168,7 +168,7 @@ li{
     background-color: var(--background_dim);
     border-bottom-right-radius: 200px;
 }
-#number i{
+#number{
   color: darkorange;
   font-size: 1rem;
   font-weight: 900;
