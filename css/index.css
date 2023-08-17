@@ -864,7 +864,7 @@ li{
 
 
 
-/* ?========== MEDIA 478======================= */
+/* ?========== MEDIA 400px======================= */
 @media (max-width: 400px){
     #toggle{
         width: 95.5%;
@@ -875,7 +875,7 @@ li{
         right: 0;
         margin-top: 0.3rem;
         margin-right: 2rem;
-        margin-left: 10rem;
+        margin-left: 13rem;
     }
     .container{
         width: 100%;
