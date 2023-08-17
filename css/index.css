@@ -240,7 +240,7 @@ li{
     margin-top: -60px;
 }
 .teacher-card:hover{
-    border: 20px solid darkorange;
+    border: 20px solid red;
     transform: translateY(1rem);
 }
 #teacher-image img{
