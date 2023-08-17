@@ -176,6 +176,7 @@ li{
     border: 20px solid rgb(45, 40, 58);
     border-top-right-radius: 200px;
     margin-right: 2rem;
+    background-color: var(--background_dim);
 }
 .svg:hover{
     border: 20px solid darkorange;
