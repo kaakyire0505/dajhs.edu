@@ -247,7 +247,7 @@ li{
     margin-top: -60px;
 }
 .teacher-card:hover{
-    border: 20px solid red;
+    border: 20px solid grey;
     transform: translateY(1rem);
 }
 .teacher-card:hover > i{
