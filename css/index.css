@@ -310,19 +310,19 @@ li{
 .profile i{
     color: darkorange;
 }
-#faq{
+.faq{
     margin-top: var(--margin-top-one);
     display: flex;
     flex-direction: column;
 }
-#faq i{
+.faq i{
     font-size: 2rem;
 }
-#faq a{
+.faq a{
     transition: var(--transition);
     color: grey;
 }
-#faq a:hover{
+.faq a:hover{
     transform: translateX(2rem);
     color: darkorange;
     text-decoration: none;
@@ -847,7 +847,7 @@ li{
     .teacher-card i{
         margin-top: -50px;
     }
-      #faq{
+      .faq{
         display: flex;
         flex-direction:column;
         align-content: center;
@@ -910,7 +910,7 @@ li{
     .teacher-card i{
         margin-top: -50px;
     }
-      #faq{
+      .faq{
         display: flex;
         flex-direction:column;
         align-content: center;
@@ -993,7 +993,7 @@ li{
         flex-direction: column;
       }
       
-      #faq{
+      .faq{
         display: flex;
         flex-direction:column;
         align-content: center;
@@ -1061,7 +1061,7 @@ li{
         flex-direction: column;
       }
       
-      #faq{
+      .faq{
         display: flex;
         flex-direction:column;
         align-content: center;
